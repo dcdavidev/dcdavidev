@@ -16,4 +16,9 @@ I spawn **daemons**, guided by AI familiars as oracles, and I believe in **open-
 - **Frameworks & Libraries**: Node.js, React  
 - **Focus**: Web development, Dev Tools, Full-Stack Engineering  
 
-🌲 Outside of code, I draw inspiration from gothic horror, poetry, forests, and the untouched silence of nature.  
+🌲 Outside of code, I draw inspiration from gothic horror, poetry, forests, and the untouched silence of nature.
+
+---
+<p align="center">Silent keys tapping,<br />
+logic flows like hidden streams,<br />
+dreams compile to life.</p>
