@@ -51,9 +51,8 @@ When I need to tackle a tough problem, this is what I reach for:
 ---
 
 <p align="center">
-    **A little code Haiku to close out:**<br />
-    <br />
-    *Silent keys tapping,<br />
-    logic flows like hidden streams,<br />
-    dreams compile to life.*
+  <strong>A little code Haiku to close out:</strong><br /><br />
+  <em>Silent keys tapping,<br />
+  logic flows like hidden streams,<br />
+  dreams compile to life.</em>
 </p>
