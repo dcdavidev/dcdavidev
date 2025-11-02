@@ -1,4 +1,8 @@
-# 👋 Hello! I'm Davide (Dave) Di Criscito — Your Friendly Code Sorcerer 🧙
+# Davide (Dave) Di Criscito
+
+<p align="center">
+  <img alt="Davide (Dave) Di Criscito" src="./presentation.webp" />
+</p>
 
 **Freelance Full-Stack Developer & Dev Tooling Specialist** — diviner of machines, disciple of open-source, daemons hunter. Conjuring Scalable Web Solutions with Code and a dash of _Magic_. My core mission is to empower seamless workflows by taming complexity. I build **robust web applications** and **developer tools** that make life easier.
 
@@ -36,7 +40,6 @@ export const familiarTools: FamiliarTools = {
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dcdavidev&theme=tokyonight" alt="streak"/>
-
 <img src="https://github-contributor-stats.vercel.app/api?username=dcdavidev&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="contributor" />
 </p>
 
