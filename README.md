@@ -1,10 +1,9 @@
 # 👋 Hello! I'm Davide (Dave) Di Criscito — Your Friendly Code Sorcerer 🧙
 
-**Freelance Full-Stack Developer & Dev Tooling Specialist** —   diviner of machines, disciple of open-source, daemons hunter. Conjuring Scalable Web Solutions with Code and a dash of _Magic_.
+**Freelance Full-Stack Developer & Dev Tooling Specialist** — diviner of machines, disciple of open-source, daemons hunter. Conjuring Scalable Web Solutions with Code and a dash of _Magic_. My core mission is to empower seamless workflows by taming complexity. I build **robust web applications** and **developer tools** that make life easier.
+
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dcdavidev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meldinco) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dcdavidev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dcdavidev) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/meldinco) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/dcdavidev) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@meldinco) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/meldinco) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dcdavidev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dcdavidev) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://techhub.social/@dcdavidev)
-
-I’m a **Freelance Full-Stack Developer & Dev Tooling Specialist**. My core mission is to empower seamless workflows by taming complexity. I build **robust web applications** and **developer tools** that make life easier.
 
 ## Familiar 🐦‍⬛ Tools
 
