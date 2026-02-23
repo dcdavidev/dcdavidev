@@ -22,31 +22,18 @@
 
 <h3 align="center">💫 About Me</h3>
 
-<div align="center">
-<table>
-  <tr>
-    <td width="55%" valign="top">
-
-```python
-user_profile = {
-    "name": "Davide Di Criscito",
-    "nickname": "Dave",
-    "spoken_languages": ["Italian", "English"],
-    "location": "Brescia, Italy",
-    "hobbies": [
+```typescript
+export const DCDAVIDEV = {
+    name: "Davide Di Criscito",
+    nickname: "Dave",
+    languages: ["Italian", "English"],
+    location: "Brescia, Italy",
+    hobbies: [
         "Music", "Photography", 
         "Hiking", "Coding"
     ]
-}
+};
 ```
-
-   </td>
-   <td width="45%" valign="top">
-     <img src="https://github-readme-stats.vercel.app/api?username=dcdavidev&show_icons=true&theme=radical" alt="Dave's GitHub stats" />
-   </td>
-  </tr>
-</table>
-</div>
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
