@@ -3,65 +3,61 @@
 </p>
 
 <p align="center">
-  <strong>Freelance Full Stack Developer | Building solutions with React & Node.js</strong>
+  <strong>Freelance Full Stack Developer | TypeScript • React.js • Node.js</strong>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dcdavidev&label=Profile%20views&color=F75C7E&style=flat" alt="Visitor Count" />
 </p>
 
-<p align="center">
-  <a href="https://x.com/dcdavidev"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/dcdavidev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/meldinco"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@dcdavidev"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
-  <a href="https://medium.com/@dcdavidev"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
-</p>
-
 ---
 
 <h3 align="center">💫 About Me</h3>
 
-```typescript
-export const DCDAVIDEV = {
-    name: "Davide Di Criscito",
-    nickname: "Dave",
-    languages: ["Italian", "English"],
-    location: "Brescia, Italy",
-    hobbies: [
-        "Music", "Photography", 
-        "Hiking", "Coding"
-    ]
-};
-```
+I'm a Full Stack Web Developer passionate about transforming complex problems into elegant, scalable solutions. Whether it's crafting intuitive user interfaces or architecting high-performance servers, I thrive on building extraordinary digital experiences.
 
-<h3 align="center">🛠️ Tech Stack</h3>
+- 💻 **Expertise:** Specializing in **TypeScript, React.js, and Node.js**.
+- 🚀 **Mission:** Simplifying development workflows by building robust CI/CD pipelines, custom CLI tools, and automation scripts.
+- ⚙️ **Operations:** Experienced in managing and deploying to production environments, ensuring clean and scalable architectures.
+- 🌱 **Mindset:** Constantly seeking new challenges and eager to collaborate on ambitious projects. 
+
+Let's build something extraordinary together!
+
+---
+
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,prisma,vite,pnpm,docker,kubernetes,nginx,git,github,githubactions" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,prisma,vite,pnpm,docker,kubernetes,nginx,git,github,githubactions" alt="Tech Stack" />
+  </a>
 </p>
 
-<h3 align="center">📊 GitHub Activity</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dcdavidev&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dcdavidev&show_icons=true&theme=radical&hide_border=true" alt="Dave's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcdavidev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dcdavidev&theme=radical&hide_border=true" alt="Dave's GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://facebook.com/dcdavidev"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/meldinco"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://linkedin.com/in/dcdavidev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/dcdavidev"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
   <a href="https://medium.com/@dcdavidev"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://youtube.com/@dcdavidev"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://twitch.tv/meldinco"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch" /></a>
+  <a href="https://instagram.com/meldinco"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://facebook.com/dcdavidev"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://pinterest.com/meldinco"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest" /></a>
   <a href="https://reddit.com/user/dcdavidev"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://tiktok.com/@meldinco"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://twitch.tv/meldinco"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch" /></a>
-  <a href="https://x.com/dcdavidev"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" /></a>
-  <a href="https://youtube.com/@dcdavidev"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" /></a>
   <a href="https://techhub.social/@dcdavidev"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white" alt="Mastodon" /></a>
 </p>
 
