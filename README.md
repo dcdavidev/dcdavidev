@@ -14,7 +14,7 @@
 
 <h3 align="center">💫 About Me</h3>
 
-I'm a Full Stack Web Developer passionate about transforming complex problems into elegant, scalable solutions. Whether it's crafting intuitive user interfaces or architecting high-performance servers, I thrive on building extraordinary digital experiences.
+I'm a Full Stack Web Developer focused on transforming complex problems into elegant, scalable solutions. Whether it's crafting intuitive user interfaces or architecting high-performance servers, I thrive on building extraordinary digital experiences.
 
 - 💻 **Expertise:** Specializing in **TypeScript, React.js, and Node.js**.
 - 🚀 **Mission:** Simplifying development workflows by building robust CI/CD pipelines, custom CLI tools, and automation scripts.
