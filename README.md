@@ -6,10 +6,6 @@
   <strong>Freelance Full Stack Developer | TypeScript • React.js • Node.js</strong>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dcdavidev&label=Profile%20views&color=F75C7E&style=flat" alt="Visitor Count" />
-</p>
-
 ---
 
 <h3 align="center">💫 About Me</h3>
